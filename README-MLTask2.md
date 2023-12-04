@@ -2,7 +2,7 @@
 
 This repository contains code for building and evaluating different classification models for drug classification based on historical data of patients and their responses to different medications.
 
-**Overview**
+**Overview:**
 
 The code includes following key components:
 
@@ -20,6 +20,6 @@ The code includes following key components:
 **4.Prediction for New Patients**:
       Providing an example of how to structure data for a new patient and use the trained models to predict drug classification.
 
-**File Structure**
+**File Structure:**
 
 'drug200.csv' : Dataset file containing historical data of patients
